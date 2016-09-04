@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Logo_Uncut.svg">
+  <title
+     id="title3828">Kamparano Logo</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71979167"
+     inkscape:cx="227.53109"
+     inkscape:cy="154.96684"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="878"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kamparano Logo</dc:title>
+        <dc:date>2015-06-30</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kamparano</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>All rights reservered.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#43d0e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 256,0 C 114.6151,0 0,114.6151 0,256 0,397.3849 114.6151,512 256,512 397.3849,512 512,397.3849 512,256 512,114.6151 397.3849,0 256,0 z"
+       id="rect3763"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3824">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3772"
+         d="m 475.88225,272 c -18.74517,18.74517 -49.13709,18.74517 -67.88226,0 -18.74516,-18.74516 -18.74516,-49.13709 0,-67.88225 18.74517,-18.74517 49.13709,-18.74517 67.88226,0 18.74516,18.74516 18.74516,49.13709 0,67.88225 z"
+         style="fill:#e7c453;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3782"
+         d="m 36.117752,272 c 18.745165,18.74517 49.137089,18.74517 67.882258,0 18.74516,-18.74516 18.74516,-49.13709 0,-67.88225 -18.745169,-18.74517 -49.137093,-18.74517 -67.882258,0 -18.745164,18.74516 -18.745164,49.13709 0,67.88225 z"
+         style="fill:#e7c453;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <path
+       style="fill:#196ab5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 120.96875,221.09375 -67.875,67.875 47.4375,47.4375 C 86.152438,364.47328 75.455563,396.58925 69.46875,431.3125 116.1626,480.97431 182.45472,512 256,512 c 73.54528,0 139.8374,-31.02569 186.53125,-80.6875 -5.98681,-34.72325 -16.68369,-66.83922 -31.0625,-94.90625 l 47.4375,-47.4375 -67.875,-67.875 -39.1875,39.1875 C 323.63494,237.2094 290.91347,224 256,224 c -34.91347,0 -67.63494,13.2094 -95.84375,36.28125 l -39.1875,-39.1875 z"
+       id="path3766"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3793"
+       transform="translate(8,0)">
+      <path
+         transform="translate(0,80)"
+         style="fill:#e7c453;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 368,136 c 0,66.27417 -53.72583,120 -120,120 -66.27417,0 -120,-53.72583 -120,-120 0,-66.27417 53.72583,-120 120,-120 66.27417,0 120,53.72583 120,120 z"
+         id="path3768"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssccc"
+         inkscape:connector-curvature="0"
+         id="path3786"
+         d="m 216,256 0,16 c 0,8.83656 14.32689,16 32,16 17.67311,0 32,-7.16344 32,-16 l 0,-16 -32,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+  </g>
+</svg>
