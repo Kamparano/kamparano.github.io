@@ -3,7 +3,7 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:251994336/sounds.rss" rel="self" type="application/rss+xml"/>
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:251994336/sounds.rss?before=281265041" rel="next" type="application/rss+xml"/>
     <title>Kamparano</title>
-    <link>http://soundcloud.com/kamparano</link>
+    <link>https://quitter.se/kp</link>
     <pubDate>Sun, 04 Sep 2016 21:33:34 +0000</pubDate>
     <lastBuildDate>Sun, 04 Sep 2016 21:33:34 +0000</lastBuildDate>
     <ttl>60</ttl>
@@ -22,7 +22,7 @@
     <image>
       <url>http://i1.sndcdn.com/avatars-000254021611-p2v637-original.jpg</url>
       <title>Kamparano</title>
-      <link>http://soundcloud.com/kamparano</link>
+      <link>https://quitter.se/kp</link>
     </image>
     <itunes:category text="Comedy"/>
     <item>
