@@ -4,8 +4,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:251994336/sounds.rss?before=281265041" rel="next" type="application/rss+xml"/>
     <title>Kamparano</title>
     <link>https://kamparano.github.io</link>
-    <pubDate>Sun, 04 Sep 2016 21:33:34 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2016 21:33:34 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2016 21:35:57 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2016 21:35:57 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>eo</language>
     <copyright>All rights reserved</copyright>
@@ -25,6 +25,20 @@
       <link>https://kamparano.github.io</link>
     </image>
     <itunes:category text="Comedy"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/290133368</guid>
+      <title>Duolingo Kurso por Lerni Esperanton per la Hispana</title>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/kamparano/duolingo-hispana</link>
+      <itunes:duration>00:00:16</itunes:duration>
+      <itunes:author>Kamparano</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>https://es.duolingo.com/course/eo/es/aprende-esperanto-en-l%C3%ADnea</itunes:summary>
+      <itunes:subtitle>https://es.duolingo.com/course/eo/es/aprende-espe…</itunes:subtitle>
+      <description>https://es.duolingo.com/course/eo/es/aprende-esperanto-en-l%C3%ADnea</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/290133368-kamparano-duolingo-hispana.mp3" length="0"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000254021611-p2v637-original.jpg"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/281265825</guid>
       <title>Geografi-Barado</title>
