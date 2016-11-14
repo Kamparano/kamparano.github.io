@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/kamparano
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kamparano.github.io
+  * I am kamparano (https://keybase.io/kamparano) on keybase.
+  * I have a public key with fingerprint D28C 4E65 AAA0 4920 F128  3BC1 7A03 F6AC 2024 B591
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a2ab6005409dab1484b55e0353a0cecd5aa374959c1fb4eb946a0f21d58ba5360a",
+            "fingerprint": "d28c4e65aaa04920f1283bc17a03f6ac2024b591",
+            "host": "keybase.io",
+            "key_id": "7a03f6ac2024b591",
+            "kid": "0101a2ab6005409dab1484b55e0353a0cecd5aa374959c1fb4eb946a0f21d58ba5360a",
+            "uid": "726cee887abf3034929ac23dd3210019",
+            "username": "kamparano"
+        },
+        "service": {
+            "hostname": "kamparano.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479157849,
+    "expire_in": 157680000,
+    "prev": "3e27907fae4454c5e771045009b9e02ec94953fb8097173ca8f6790256882bc9",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUntMVXUcv7yaGC4YPRZgwQlN6A5+53XPOdfGEgfcELN88SiB3znnd+AEnHs5
+5/AKUInk9mC81BUUlG3UcPjgOUNXCjMsETdZgUNnDVFgQ0oQSyd0jtY/rT/7/fPb
+77vP87tf3Sovi6fHO16L7aHhPfUe56d5S0rkuqJSjHeKJZi9FMtBDy+UKyJNz8iR
+RcyOARzgkIC8DQCaApwIeZxiKZ6mESBpEgIBCSINIclQHM0JuMRTiOcoGwQSgYs0
+y0OatAGIWTFJVrKQ6lJlRTdkRYIVKGQzmBBQHAEknGBJXsAZCEjJBgUCEIYJhxvE
+bKdmMoxwPNRQlOw0ZsYj42G8/8D/z7kLHvkQNgEhlmUgL5GANCJzhikpiiSBA4Bz
+JlBDqgLzkJkV5rmgChUnVm7FjHGhLCBzs2aVf0OismQ9u4B/1MulOnWn4Mw1ANm6
+7tLspoBe4jIZRYjP+Fsrg5cV0dinwShEqiY7FcyOG0hBl01xnGI4nGZYirNiqNgl
+qyhDNhE0Y2OBcUwfVIjZMzESEQwHGAkiiqIpgUYMgwOKBoDjOQQIJHDGekiJZwHH
+4AwpQFayGQSCtrEswQtmbQ3lGz3thJETZhkxNTlLgXqBirDylR94hnhbPDwtj/l4
+mj/NstLX/5/vV+nhb6kteKa4vSm/7dzJB1ufePupouZOv+m5OuboBs71bqpHov4+
+QjsusOsjMwNSf2DOLt2+V33z17IL2sGRy3dvYW1drt2TRWOrBXV4vmq+oeTrstU9
+kyOBTaNXl6+7lZ/rP20Kt5Qdn8lKb9nrU/bAPdhMnIgZSPU+nlt/PyH6m+yW3RGr
+9k9TXT/+EdFXm7NMwwb1SNNE65UjFWcOO87qNw8UO95Lv6G9Ht9/sS8tObumv/G6
+Phb0fJF2tbehcVFJtO4q/TBx4yfiVMqk9Gf3vDvR+27v8LHNDelwQdzafdJv7eeh
+x+4Njo9VUq0HLX0TYY6kAyFTyWtq3njSLyfzWnWQo3H7luTu/KqgpStoQ2vCi8qh
+tNCp/i4vMmo8hu1ZyLv1XVLTa8nVM6kJM151c5FDE/c//vLizr3D2tM1FTFqr8SF
+qS+/NREQe0a3VQzz7rloe5VvSPw+ql6u/WLet2b+20PODt+2z16N2XT+Tmx4XeHi
+OK5Yk8LU33pnn9t12j20R9sxeLnk0ljss4HbUjdi+zb3tNadePP7Uz6BexzezXEF
+C3Hnfur8aDboUnlN+Z0UsGlgrWNifXT7S6M+y1t0fLs1NG3o96rgUewFpjr4cIT/
+7VMjO4+eDgveNtKvRs/GkjlL7CvNVfkVj6/4ZUXnQMeNayUB676KL0uJa/Gs7CCj
+QvFZ1MH+BQ==
+=/cke
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kamparano
+
+==================================================================
+
