@@ -21,6 +21,11 @@ To do so, I am signing this object:
             "uid": "726cee887abf3034929ac23dd3210019",
             "username": "kamparano"
         },
+        "revoke": {
+            "sig_ids": [
+                "1c9ab19719cbdd7e16fd61ef844474a78fe2ab3f153b30ee2e34056f3cfcac040f"
+            ]
+        },
         "service": {
             "hostname": "kamparano.github.io",
             "protocol": "https:"
@@ -28,10 +33,10 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1479157849,
+    "ctime": 1479160486,
     "expire_in": 157680000,
-    "prev": "3e27907fae4454c5e771045009b9e02ec94953fb8097173ca8f6790256882bc9",
-    "seqno": 2,
+    "prev": "3c8b11360cb1027f80f3691aeb5d03ed5ecbb8f11aa07c0343dc8badc7cdf22c",
+    "seqno": 6,
     "tag": "signature"
 }
 
@@ -40,29 +45,30 @@ which yields the signature:
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1
 
-owGtUntMVXUcv7yaGC4YPRZgwQlN6A5+53XPOdfGEgfcELN88SiB3znnd+AEnHs5
-5/AKUInk9mC81BUUlG3UcPjgOUNXCjMsETdZgUNnDVFgQ0oQSyd0jtY/rT/7/fPb
-77vP87tf3Sovi6fHO16L7aHhPfUe56d5S0rkuqJSjHeKJZi9FMtBDy+UKyJNz8iR
-RcyOARzgkIC8DQCaApwIeZxiKZ6mESBpEgIBCSINIclQHM0JuMRTiOcoGwQSgYs0
-y0OatAGIWTFJVrKQ6lJlRTdkRYIVKGQzmBBQHAEknGBJXsAZCEjJBgUCEIYJhxvE
-bKdmMoxwPNRQlOw0ZsYj42G8/8D/z7kLHvkQNgEhlmUgL5GANCJzhikpiiSBA4Bz
-JlBDqgLzkJkV5rmgChUnVm7FjHGhLCBzs2aVf0OismQ9u4B/1MulOnWn4Mw1ANm6
-7tLspoBe4jIZRYjP+Fsrg5cV0dinwShEqiY7FcyOG0hBl01xnGI4nGZYirNiqNgl
-qyhDNhE0Y2OBcUwfVIjZMzESEQwHGAkiiqIpgUYMgwOKBoDjOQQIJHDGekiJZwHH
-4AwpQFayGQSCtrEswQtmbQ3lGz3thJETZhkxNTlLgXqBirDylR94hnhbPDwtj/l4
-mj/NstLX/5/vV+nhb6kteKa4vSm/7dzJB1ufePupouZOv+m5OuboBs71bqpHov4+
-QjsusOsjMwNSf2DOLt2+V33z17IL2sGRy3dvYW1drt2TRWOrBXV4vmq+oeTrstU9
-kyOBTaNXl6+7lZ/rP20Kt5Qdn8lKb9nrU/bAPdhMnIgZSPU+nlt/PyH6m+yW3RGr
-9k9TXT/+EdFXm7NMwwb1SNNE65UjFWcOO87qNw8UO95Lv6G9Ht9/sS8tObumv/G6
-Phb0fJF2tbehcVFJtO4q/TBx4yfiVMqk9Gf3vDvR+27v8LHNDelwQdzafdJv7eeh
-x+4Njo9VUq0HLX0TYY6kAyFTyWtq3njSLyfzWnWQo3H7luTu/KqgpStoQ2vCi8qh
-tNCp/i4vMmo8hu1ZyLv1XVLTa8nVM6kJM151c5FDE/c//vLizr3D2tM1FTFqr8SF
-qS+/NREQe0a3VQzz7rloe5VvSPw+ql6u/WLet2b+20PODt+2z16N2XT+Tmx4XeHi
-OK5Yk8LU33pnn9t12j20R9sxeLnk0ljss4HbUjdi+zb3tNadePP7Uz6BexzezXEF
-C3Hnfur8aDboUnlN+Z0UsGlgrWNifXT7S6M+y1t0fLs1NG3o96rgUewFpjr4cIT/
-7VMjO4+eDgveNtKvRs/GkjlL7CvNVfkVj6/4ZUXnQMeNayUB676KL0uJa/Gs7CCj
-QvFZ1MH+BQ==
-=/cke
+owGtUmtQVFUcXx7ChA8YyrRJwW7IZLPqOfd9dzDCUJQ0ctAJUWc7595z4cKyu+wu
+Kw/BYLDp4ZvHNBWI4VBbMlhTlg05+KC0jUkmICYgkUnJyTAQcMZAOov1pelj58uZ
+c+b3Or/zPzw/xBQcVBwyeXJZ3GdHgvw3sSnjabathMEOrYixlDC5ZHYjNo24PdZc
+Q2MsDIAAIhZhEQCBB4qGMORlHgsCAZzAIaASVRMQ4iReERQV6pgnWOFFBHQWaoKM
+kcCJADFmRjfsWcTldBl2D5XVWFnliUiZCPAKC3TIyhxWoYQAp4tIZQFLTRRIidkO
+d4BBw2HkJqsMB72jB+tsvP/A/8+5Cx74sKJKiCxLCOsc4GhkhZpymsaxEACoBIBu
+4rKjPBLIivKcyIXsDqbUzLiI15FLAsW6jSya2s1YdjBQVWgiRYKKijVNIlDUNRES
+XeZ5XuKRJOuEhud0KHCYA4SwhOOBIOqcqqtIBTzQmV1Um1p6DXVWPFDTv+1XZRme
+7AL8oDOny+FxqA4bBWR7PE63hWmlCp4iZ4Cym2Dr32JWbNg1+lmU4iUut+GwMxZI
+karHCKhDXlKgCHhZNDOk0Gm4iNUIIARJlAFdASPipZKcKmMIaYsqhoCVdBnonKhA
+RLCgAY5oAlExlnUI6QhIKu2U0ygDaaqkajrLqkzgefm0Qwt18qAsKkkLtCNPgYsw
+pRGvBy8JNQUFm8LmBAem2BTxUNQ/o30qJXLG0Wvm+MferGelirljJc5R6fH1bQfO
+9m3tq/w62ogOv74lrWaqLD+3f5BPybqy4+UFxTXPh5WZpqfqqs8cfEGv6Floun60
+46mN42GbxkPvjA40256wl4QtnVfw07yrSSXbar/L7GUXDp1vgsPkhw2jpmVd4T8v
+ql+UsFaPWT6Rf2I6EXpPl3tT+SFfR/VbXYOLjh1KDK0ajPQ9u7F45NzR/MqQzt9S
+Zjrzhi/Ep95vfTKoKqq3LnPDJ9axZ86v7cQxNze/4hwc9r+W3bitYvGFPeHL5cul
+n3Y7j72knnzn8/5y28PX8qu2BznTS5KP1w2jG6/GhdyJbxkptk2lDzVcrSyKrfrS
+Vxtju9FnFpR9GeXn3j10sDU4ri6hMTLhDbF1X/Xx/Xv75m589NeGKyA5WX7vq+2g
+c/Lbs5a4rrqINdbxGuh3LBjeWXXxXncj1+55EftaGtZ1rfbVDVhPTyWvuLs31vCl
+DrWfslRNgML6L8Rut3dF4bqRlS1lKM1/aSjpVk5UpDHjtRw2fRhFvon+o/vE/V52
+YPePhzbddhy5ZAq/x8659X5UeEfqzv3p6zd/HJF7ty83aU/ic/4cZ0je9MTRlJxr
+sR+cSdjyfXzG1t9vX17dfDGtq3ly6Z+4zT8/uWFnU+nY2/2ZteZ1H1kXPzK3c4l/
+KjR7pWXBL7E9Z7Rdaw40ZfQbeKK9x/wX
+=jM0b
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -71,4 +77,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/kamparano
 
 ==================================================================
-
