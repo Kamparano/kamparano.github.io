@@ -5,7 +5,7 @@
 }
 
 body {
-	font-family: Overpass;
+	font-family: Overpass, sans-serif;
 	margin: 40px auto;
 	max-width: 650px;
 	line-height: 1.6;
