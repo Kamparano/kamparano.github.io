@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Kamparano</title><link>./index.html</link>
 <description>Miaj stultaj pensoj pri stultaj aferoj.</description><language>en</language>
-<lastBuildDate>Tue, 29 Nov 2016 13:29:04 -0800</lastBuildDate>
-<pubDate>Tue, 29 Nov 2016 13:29:04 -0800</pubDate>
+<lastBuildDate>Tue, 29 Nov 2016 13:41:37 -0800</lastBuildDate>
+<pubDate>Tue, 29 Nov 2016 13:41:37 -0800</pubDate>
 <atom:link href="./feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Ligiloj
+</title><description><![CDATA[
+
+<p>
+<a href="https://www.youtube.com/channel/UCTLxbTnu9gmeIDPoCfUTerQ">YouTube</a>
+&#8226; <a href="https://quitter.se/kp">GNU social</a>
+&#8226; <a href="https://twitter.com/KamparanoViro">Twitter</a>
+&#8226; <a href="https://keybase.io/kamparano/">Keybase</a>
+
+<br/>
+
+<!--<i>Podkasto:</i>-->
+<a href="podkasto.rss">RSS</a>
+&#8226; <a href="https://soundcloud.com/kamparano">SoundCloud</a>
+&#8226; <a href="https://itunes.apple.com/us/podcast/kamparano/id1151953905">iTunes</a>
+&#8226; <a href="https://play.google.com/music/m/Iwroyiuwgjvapc4fleodpstvp4e?t=Kamparano">Google Play</a>
+&#8226; <a href="http://pca.st/u0Ln">Pocket Casts</a>
+&#8226; <a href="http://tunein.com/radio/Kamparano-p930369/">TuneIn Radio</a>
+</p>
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>./ligiloj.html</link>
+<guid>././ligiloj.html</guid>
+<dc:creator>Kamparano</dc:creator>
+<pubDate>Tue, 29 Nov 2016 13:41:35 -0800</pubDate></item>
 <item><title>
 Super Mario Bros. nun ludeblas en Esperanto
 </title><description><![CDATA[
@@ -18,6 +49,13 @@ Super Mario Bros. nun ludeblas en Esperanto
 <p>Permesita al vi per <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0.</a></p>
 
 <p>Tags: <a href='tag_tradukoj.html'>tradukoj</a>, <a href='tag_ludoj.html'>ludoj</a></p>
+
+
+
+
+
+
+
 
 
 
@@ -60,6 +98,13 @@ Nefinita Traduko de Batman (GB) al Esperanto
 
 
 
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>./kp_batmaneo.html</link>
 <guid>././kp_batmaneo.html</guid>
@@ -85,6 +130,13 @@ Teeworlds, tre amuza libera ludo, ludeblas en Esperanto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QY94SNgiLVU" frameborder="0" allowfullscreen></iframe>
 
 <p>Tags: <a href='tag_tradukoj.html'>tradukoj</a>, <a href='tag_ludoj.html'>ludoj</a></p>
+
+
+
+
+
+
+
 
 
 

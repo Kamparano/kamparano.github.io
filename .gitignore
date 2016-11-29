@@ -1,3 +1,4 @@
 .backup.tar.gz
 .yesterday.tar.gz
 .entry-*
+.bb.sh.swp
