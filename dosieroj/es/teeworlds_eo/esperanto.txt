@@ -1,0 +1,1396 @@
+# 
+# Translators:
+# Kamparano <kamparano.viro@gmail.com>, 2015
+# Marvin <la_volpe@op.pl>, 2015
+
+== 
+Project-Id-Version: Teeworlds\n
+Report-Msgid-Bugs-To: translation@teeworlds.com\n
+POT-Creation-Date: 2014-05-03 01:49+0200\n
+PO-Revision-Date: 2015-09-01 05:51+0000\n
+Last-Translator: Marvin <la_volpe@op.pl>\n
+Language-Team: Esperanto (http://www.transifex.com/teeworlds/teeworlds/language/eo/)\n
+MIME-Version: 1.0\n
+Content-Type: text/plain; charset=UTF-8\n
+Content-Transfer-Encoding: 8bit\n
+Language: eo\n
+Plural-Forms: nplurals=2; plural=(n != 1);\n
+
+##--Pliaj tradukaĵoj por 0.6.x--##
+Internet
+== Interreto
+
+Quick search:
+== Rapida serĉo
+
+Host address
+== Adreso de gastiga komputilo
+
+Current version: %s
+== Ĝisdata versio: %s
+
+Filter
+== Filtrilo
+
+Info
+== Informoj
+
+Max Screenshots
+== Limo de ekrankopioj
+
+Max demos
+== Limo de demonstroj
+
+Name plates size
+== Dimensioj de la nomŝildoj
+
+Your skin
+== Via haŭtaĵo
+
+Body
+== Korpo
+
+Hue
+== Koloro
+
+Sat.
+== Satureco
+
+Lht.
+== Brileco
+
+Rifle
+== Fusilo
+
+FSAA samples
+== PS-glatigo de specimenoj
+
+Display Modes
+== Ekranreĝimoj
+
+Reset to defaults
+== Reŝarĝi al defaŭltaj
+
+Threaded rendering
+== Fadeniga bildigado
+
+Alpha
+== Alfa
+
+Threaded sound loading
+== Fadeniga sonŝarĝado
+
+Sound volume
+== Sonforteco
+
+Record demo
+== Registri demonstron
+
+LAN
+== Loka reto
+
+UI Color
+== Koloro de uzantinterfaco 
+
+Feet
+== Piedoj
+
+Tee
+== Teo
+
+Miscellaneous
+== Diversaĵoj
+
+
+***'%s' entered and joined the game
+== '%s' envenis kaj aligis al la ludo
+
+'%s' has entered and joined the red team
+== '%s' envenis kaj aligis al la ruĝa teamo
+
+'%s' has entered and joined the blue team
+== '%s' envenis kaj aligis al la blua teamo
+
+%d of %d servers, %d players
+== %d el la %d serviloj, %d ludantojn
+
+
+
+The server is full
+== La servilo estas plena
+
+##----##
+#: src/game/client/components/menus_ingame.cpp:644
+Vote description:
+== Voĉdona priskribo:
+
+#: src/game/client/components/menus_settings.cpp:812
+#: src/game/client/components/menus_settings.cpp:1157
+#: src/game/client/components/menus_settings.cpp:1432
+#: src/game/client/components/menus_settings.cpp:1625
+Reset
+== Rekomencigo
+
+#: src/game/client/components/menus_callback.cpp:47
+Hammer
+== Martelo
+
+#: src/game/client/components/menus_settings.cpp:1133
+Weapon
+== Armilo
+
+#: src/game/client/components/menus_settings.cpp:1559
+Mute when not active
+== Silentigi kiam la ludo ne aktivas
+
+#: src/game/client/components/voting.cpp:180
+'%s' called vote to change server option '%s' (%s)
+== '%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)
+
+#: src/game/client/components/spectator.cpp:216
+#: src/game/client/components/hud.cpp:538
+Free-View
+== Libera-Vido
+
+#: src/game/client/components/menus.cpp:1779
+
+As this is the first time you launch the game, please enter your nick name 
+below. It's recommended that you check the settings to adjust them to your 
+liking before joining a server.
+== Ĉar tiu estas via unua fojo, ke vi startigis la ludon, bonvolu enskribi vian kromnomon sube. Vi povas ekrigardi la agordojn por alfari ilin laŭ via gusto antaŭ vi aliĝos iu servilo.
+
+#: src/game/client/components/menus.cpp:1288
+Loading
+== Ŝargas
+
+#: src/game/client/components/scoreboard.cpp:139
+Game over
+== Ludo finita
+
+#: src/game/client/components/menus.cpp:1739
+Are you sure you want to rename the demo?
+== Ĉu vi certe volas renomigi la demonstron?
+
+#: src/game/client/components/menus.cpp:1820
+
+There's an unsaved map in the editor, you might want to save it before you 
+quit the game.
+== Vi ne konservas vian mapon, vi eble volas konservi ĝin antaŭ vi eliras el la ludo.
+
+#: src/game/client/components/menus_demo.cpp:386
+Type
+== Tipo
+
+#: src/game/client/components/menus_callback.cpp:49
+#: src/game/client/components/hud.cpp:437
+Vote no
+== Voĉdonu ne
+
+#: src/game/client/components/menus.cpp:2210
+Nickname
+== Kromnomo
+
+#: src/game/client/gameclient.cpp:1402
+'%s' has left the game (%s)
+== '%s' eliras el la ludo (%s)
+
+#: src/game/client/components/menus_demo.cpp:382
+Created
+== Kreita
+
+#: src/game/client/gameclient.cpp:1394
+'%s' entered and joined the %s
+== '%s' envenis kaj aligis al %s
+
+#: src/game/client/components/scoreboard.cpp:94
+Spectators
+== Spektantoj
+
+#: src/game/client/components/menus.cpp:1749
+Save skin
+== Konservi haŭtaĵon
+
+#: src/game/client/components/hud.cpp:182
+%d player left
+== Ludanto %d foriris
+
+#: src/game/client/components/menus_ingame.cpp:160
+Joined
+== Aligis
+
+#: src/game/client/components/voting.cpp:226
+Vote failed
+== La voĉdonado fiaskis
+
+#: src/game/client/components/menus_ingame.cpp:46
+Teams are locked. Time to wait before changing team: %02d:%02d
+== La teamoj estas blokitaj. Post %02d:%02d da tempo vi povas ŝanĝi la teamon.
+
+#: src/game/client/components/menus.cpp:1745
+
+Are you sure that you want to remove the player from your friends list?
+== Ĉu vi certe volas forigi la ludanton el via geamiklisto?
+
+#: src/game/client/components/menus_popups.cpp:125
+#: src/game/client/components/menus_browser.cpp:1160
+Server not full
+== La servilo ne estas plena
+
+#: src/game/client/components/menus.cpp:2045
+#: src/game/client/components/menus.cpp:2094
+#: src/game/client/components/menus.cpp:2194
+#: src/game/client/components/menus.cpp:2219
+Error
+== Eraro
+
+#: src/game/client/components/chat.cpp:437
+#: src/game/client/components/menus.cpp:2319
+All
+== Al ĉiuj
+
+#: src/game/client/components/hud.cpp:124
+Wait for next round
+== Atendi por la neksta raŭndo
+
+#: src/game/client/components/menus_start.cpp:108
+#: src/game/client/components/menus_start.cpp:113
+Play
+== Ludi
+
+#: src/game/client/components/menus.cpp:1761
+Sound error
+== Sona eraro
+
+#: src/game/client/components/menus_ingame.cpp:318
+#: src/game/client/components/menus.cpp:1231
+Server info
+== Servilinformoj
+
+#: src/game/client/components/menus.cpp:1733
+Delete demo
+== Forigi demonstron
+
+#: src/game/client/components/menus_browser.cpp:1094
+Search:
+== Serĉi:
+
+#: src/game/client/components/menus_ingame.cpp:647
+Vote command:
+== Voĉdona komando:
+
+#: src/game/client/components/menus_demo.cpp:449
+#: src/game/client/components/menus_settings.cpp:1099
+Delete
+== Forigi
+
+#: src/game/client/components/menus.cpp:1756
+Delete skin
+== Forigi haŭtaĵon
+
+#: src/game/client/components/menus_browser.cpp:1115
+Host address:
+== Gastiganta adreso:
+
+#: src/game/client/components/menus_callback.cpp:47
+Move right
+== Moviĝi dekstren
+
+#: src/game/client/components/menus_ingame.cpp:362
+Game info
+== Informoj de ludo
+
+#: src/game/client/components/hud.cpp:182
+%d players left
+== %d ludantoj restas
+
+#: src/game/client/components/menus.cpp:1124
+#: src/game/client/components/menus_settings.cpp:1519
+Sound
+== Sono
+
+#: src/game/client/components/menus_popups.cpp:145
+#: src/game/client/components/menus_browser.cpp:1180
+Standard gametype
+== Norma ludtipo
+
+#: src/game/client/components/menus_start.cpp:88
+#: src/game/client/components/menus_start.cpp:96
+Editor
+== Redaktilo
+
+#: src/game/client/components/menus_ingame.cpp:606
+#: src/game/client/components/menus.cpp:1237
+Call vote
+== Voki voĉdonon
+
+#: src/game/client/components/menus_settings.cpp:1524
+Use sounds
+== Uzi sonojn
+
+#: src/game/client/components/menus_settings.cpp:252
+Sat:
+== Satureco
+
+#: src/game/client/components/menus.cpp:1327
+Back
+== Reen
+
+#: src/game/client/components/menus_settings.cpp:733
+Show only chat messages from friends
+== Montri nur babilejan mesaĝojn de amikoj.
+
+#: src/game/client/components/menus_ingame.cpp:493
+Spectators aren't allowed to start a vote.
+== Spektantoj ne rajtas komenci voĉdonadon
+
+#: src/game/client/components/menus.cpp:1762
+The audio device couldn't be initialised.
+== La sonludilo ne povis esti pravalorizita
+
+#: src/game/client/components/menus_ingame.cpp:334
+#: src/game/client/components/menus.cpp:1838
+#: src/game/client/components/menus.cpp:2031
+#: src/game/client/components/menus.cpp:2072
+#: src/game/client/components/menus.cpp:2115
+#: src/game/client/components/menus.cpp:2152
+#: src/game/client/components/menus.cpp:2179
+Yes
+== Jes
+
+#: src/game/client/components/hud.cpp:81
+#: src/game/client/components/hud.cpp:331
+%d players not ready
+== %d ludantoj ne estas pretaj
+
+#: src/game/client/components/menus_browser.cpp:868
+No servers match your filter criteria
+== Oni ne povis trovi servilon laŭ via gusto
+
+#: src/game/client/components/menus_settings.cpp:1359
+Wide
+== Larĝa
+
+#: src/game/client/components/menus_popups.cpp:150
+#: src/game/client/components/menus_browser.cpp:1185
+Standard map
+== Norma mapo
+
+#: src/game/client/components/scoreboard.cpp:384
+Blue team wins!
+== Blua teamo venkas!
+
+#: src/game/client/components/menus_callback.cpp:48
+Laser
+== Laserilo
+
+#: src/game/client/components/menus_ingame.cpp:377
+#: src/game/client/components/menus_demo.cpp:407
+Map
+== Mapo
+
+#: src/game/client/components/menus_settings.cpp:1361
+Letterbox
+== Leterujo
+
+#: src/game/client/components/menus_callback.cpp:48
+Prev. weapon
+== Antaŭa armilo
+
+#: src/game/client/components/menus_popups.cpp:140
+#: src/game/client/components/menus_browser.cpp:1175
+Compatible version
+== Kongrua versio
+
+#: src/game/client/components/menus_settings.cpp:252
+Lgt:
+== Brileco
+
+#: src/game/client/components/menus.cpp:1774
+Are you sure that you want to quit?
+== Ĉu vi estas certa ke vi volas eliri?
+
+#: src/game/client/components/menus_ingame.cpp:204
+#: src/game/client/components/menus.cpp:1092
+Player
+== Ludanto
+
+#: src/game/client/components/scoreboard.cpp:370
+Draw!
+== Remiso!
+
+#: src/game/client/components/menus_browser.cpp:1250
+Reset filter
+== Reŝarĝi filtrilon
+
+#: src/game/client/components/menus_callback.cpp:51
+Respawn
+== Viviĝi
+
+#: src/game/client/components/menus_settings.cpp:252
+Hue:
+== Koloro
+
+#: src/game/client/gameclient.cpp:97
+red team
+== ruĝan teamon
+
+#: src/game/client/components/voting.cpp:212
+Vote aborted
+== Voĉdonado estis nuligita
+
+#: src/game/client/components/menus.cpp:1780
+Enter
+== Eniri
+
+#: src/game/client/components/menus_settings.cpp:1249
+Anti Aliasing
+== Glatigo
+
+#: src/game/client/components/menus_settings.cpp:1202
+Screen
+== Ekrano
+
+#: src/game/client/components/menus.cpp:1720
+#: src/game/client/components/menus.cpp:1726
+Disconnected
+== Nekonektita
+
+#: src/game/client/components/menus_browser.cpp:1556
+#: src/game/client/components/menus_settings.cpp:864
+#: src/game/client/components/scoreboard.cpp:204
+#: src/game/client/components/scoreboard.cpp:205
+Clan
+== Klano
+
+#: src/game/client/components/menus_popups.cpp:174
+#: src/game/client/components/menus_browser.cpp:1208
+Maximum ping:
+== Maksimuma pingo:
+
+#: src/game/client/components/menus.cpp:1698
+#: src/game/client/components/menus.cpp:1860
+Abort
+== Nuligi
+
+#: src/game/client/components/menus_ingame.cpp:42
+Teams are locked
+== Teamoj estas ŝlositaj
+
+#: src/game/client/components/menus_settings.cpp:1010
+Normal:
+== Norma:
+
+#: src/game/client/components/menus_demo.cpp:501
+Error loading demo
+== Eraro okazas dum oni ŝarĝas la demonstradon
+
+#: src/game/client/components/menus_callback.cpp:47
+Jump
+== Salti
+
+#: src/game/client/components/hud.cpp:537
+Spectate
+== Spekti
+
+#: src/game/client/components/menus_settings.cpp:1129
+Movement
+== Movado
+
+#: src/game/client/components/menus_ingame.cpp:140
+Join blue
+== Aligi al la blua
+
+#: src/game/client/components/voting.cpp:219
+Vote passed
+== Voĉdonado pasis
+
+#: src/game/client/components/menus_settings.cpp:848
+Personal
+== Persona
+
+#: src/game/client/components/voting.cpp:207
+Admin moved '%s' to spectator (%s)
+== La administranto movis '%s' al spektanto (%s)
+
+#: src/game/client/components/menus_popups.cpp:161
+#: src/game/client/components/menus_browser.cpp:1196
+Game types:
+== Ludtipoj:
+
+#: src/game/client/components/menus_settings.cpp:1106
+Basic
+== Baza
+
+#: src/game/client/components/menus_ingame.cpp:390
+MOTD
+== Mesaĝo de la tago
+
+#: src/game/client/components/menus.cpp:1714
+#: src/game/client/components/menus_settings.cpp:870
+Country
+== Lando
+
+#: src/game/client/components/scoreboard.cpp:393
+Round over!
+== Fino de la raŭndo!
+
+#: src/game/client/components/menus_popups.cpp:130
+#: src/game/client/components/menus_browser.cpp:1165
+Show friends only
+== Montri nur amikojn
+
+#: src/game/client/components/menus_browser.cpp:1454
+#: src/game/client/components/menus.cpp:1171
+Friends
+== Amikoj
+
+#: src/game/client/components/menus.cpp:1750
+
+Are you sure you want to save your skin? If a skin with this name already 
+exists, it will be replaced.
+== Ĉu vi estas certa ke vi volas konservi vian haŭtaĵon? Se iu haŭtaĵo kun tiu nomo jam ekzistas, ĝi estos ŝanĝita
+
+#: src/game/client/components/menus_callback.cpp:49
+Show chat
+== Montri babilejon
+
+#: src/game/client/components/menus_settings.cpp:772
+Automatically record demos
+== Aŭtomate registri demonstrojn
+
+#: src/game/client/components/menus_ingame.cpp:140
+Joined blue
+== Aligis al la blua
+
+#: src/game/client/components/menus.cpp:1150
+Global
+== Globala
+
+#: src/game/client/components/menus_browser.cpp:710
+no players
+== ne ludantoj
+
+#: src/game/client/components/menus_browser.cpp:864
+Refreshing master servers
+== La ĉefaj serviloj ĝisdatiĝas
+
+#: src/game/client/components/menus_settings.cpp:1221
+Borderless window
+== Fenestro sen framo
+
+#: src/game/client/components/menus_demo.cpp:403
+Netversion
+== Interretversio:
+
+#: src/game/client/components/menus_callback.cpp:47
+Fire
+== Pafo
+
+#: src/game/client/components/menus_demo.cpp:202
+Close
+== Fermi
+
+#: src/game/client/components/menus.cpp:1219
+#: src/game/client/components/menus_settings.cpp:697
+Game
+== Ludo
+
+#: src/game/client/components/voting.cpp:190
+'%s' called for vote to move '%s' to spectators (%s)
+== '%s' volas forigi '%s' al la spektantoj (%s)
+
+#: src/game/client/components/menus_ingame.cpp:185
+Disconnect
+== Malkonekti
+
+#: src/game/client/components/hud.cpp:322
+#: src/game/client/components/hud.cpp:323
+Warmup
+== Antaŭtrejnado
+
+#: src/game/client/components/menus_settings.cpp:1038
+Team:
+== Al teamo:
+
+#: src/game/client/components/menus_settings.cpp:1233
+V-Sync
+== Vertikala Sinkronigo
+
+#: src/game/client/components/hud.cpp:333
+wait for more players
+== atendas por pli ludantoj
+
+#: src/game/client/components/menus.cpp:1912
+%i minute left
+== %i minuton restas
+
+#: src/game/client/components/voting.cpp:185
+'%s' called for vote to kick '%s' (%s)
+== %s' volas forigi '%s' (%s)
+
+#: src/game/client/components/menus_ingame.cpp:99
+Spectating
+== Spektas
+
+#: src/game/client/components/menus_settings.cpp:1106
+Custom
+== Propra
+
+#: src/game/client/components/voting.cpp:203
+Admin forced server option '%s' (%s)
+== Administranto trudis servilagordon '%s' (%s)
+
+#: src/game/client/components/menus.cpp:1108
+Controls
+== Regadoj
+
+#: src/game/client/gameclient.cpp:587
+The %s flag was captured by '%s' (%.2f seconds)
+== La flago de %s estis kaptita de '%s' (%.2f sekundojn)
+
+#: src/game/client/components/menus_ingame.cpp:495
+Wait for current vote to end before calling a new one.
+== Atendi ĝis la fino de la nuna voĉdonado por krei novan voĉdonadon.
+
+#: src/game/client/components/scoreboard.cpp:377
+Red team wins!
+== Ruĝa teamo venkas!
+
+#: src/game/client/components/menus_demo.cpp:414
+%.3f KiB
+== %.3f kilobajton
+
+#: src/game/client/components/menus_demo.cpp:477
+msgctxt DemoBrowser
+Play
+== Ludi
+
+#: src/game/client/components/menus_ingame.cpp:333
+#: src/game/client/components/menus_demo.cpp:399
+Version
+== Versio
+
+#: src/game/client/components/menus_ingame.cpp:627
+Force vote
+== Eldevigi voĉdonadon
+
+#: src/game/client/components/menus_settings.cpp:748
+Always show name plates
+== Ĉiam montri nomŝildojn
+
+#: src/game/client/components/menus_ingame.cpp:199
+Player options
+== Agordoj de ludanto
+
+#: src/game/client/components/menus.cpp:1915
+%i seconds left
+== %i sekundojn restas
+
+#: src/game/client/components/menus_browser.cpp:1566
+Add Friend
+== Aldoni Amikon
+
+#: src/game/client/components/menus_callback.cpp:49
+Emoticon
+== Miensimbolo
+
+#: src/game/client/components/menus_settings.cpp:1207
+Fullscreen
+== Tutekrano
+
+#: src/game/client/components/menus_popups.cpp:155
+#: src/game/client/components/menus_browser.cpp:1190
+Strict gametype filter
+== Strikta filtrilo de ludtipo
+
+#: src/game/client/components/menus_settings.cpp:151
+Color
+== Koloro
+
+#: src/game/client/components/menus_settings.cpp:1276
+Quality Textures
+== Kvalito de teksturoj
+
+#: src/game/client/components/menus_settings.cpp:1091
+Save
+== Konservi
+
+#: src/game/client/components/menus_demo.cpp:209
+Demofile: %s
+== Demonstra dosiero: %s
+
+#: src/game/client/components/menus_browser.cpp:1589
+#: src/game/client/components/menus_demo.cpp:438
+Refresh
+== Aktualigi
+
+#: src/game/client/components/menus_callback.cpp:48
+Pistol
+== Pistolo
+
+#: src/game/client/components/menus_settings.cpp:1353
+Format
+== Dosierformo
+
+#: src/game/client/components/menus_demo.cpp:415
+#: src/game/client/components/menus_settings.cpp:754
+Size
+== Grandeco
+
+#: src/game/client/components/menus_ingame.cpp:332
+#: src/game/client/components/scoreboard.cpp:207
+#: src/game/client/components/scoreboard.cpp:208
+Ping
+== Pingo
+
+#: src/game/client/components/menus_popups.cpp:135
+#: src/game/client/components/menus_browser.cpp:1170
+No password
+== Sen pasvorto
+
+#: src/game/client/components/menus_ingame.cpp:160
+Join
+== Aligi
+
+#: src/game/client/components/menus_ingame.cpp:522
+Change settings
+== Ŝanĝi agordojn
+
+#: src/game/client/components/scoreboard.cpp:375
+#: src/game/client/components/scoreboard.cpp:382
+%s wins!
+== %s venkas!
+
+#: src/game/client/components/menus_settings.cpp:415
+Skins
+== Haŭtaĵoj
+
+#: src/game/client/components/menus.cpp:1173
+Browser
+== Esplorilo
+
+#: src/game/client/components/menus_settings.cpp:1669
+You must restart the game for all settings to take effect.
+== Vi devas restarti la ludon, se vi volas, ke ĉiuj agordoj efikas.
+
+#: src/game/client/components/menus.cpp:1912
+%i minutes left
+== %i minutojn restas
+
+#: src/game/client/gameclient.cpp:104
+spectators
+== spektantoj
+
+#: src/game/client/components/menus_callback.cpp:50
+Remote console
+== Telekonzolo
+
+#: src/game/client/components/menus.cpp:1701
+Downloading map
+== Mi elŝutas mapon
+
+#: src/game/client/components/menus_browser.cpp:1124
+%d%% loaded
+== %d%% ŝarĝita
+
+#: src/game/client/components/menus_ingame.cpp:538
+Server does not allow voting to kick players
+== La servilo ne permesas voĉdoni por forigi ludantojn
+
+#: src/game/client/components/menus.cpp:1864
+Try again
+== Provi denove
+
+#: src/game/client/components/menus.cpp:1915
+%i second left
+== %i sekundon restas
+
+#: src/game/client/components/menus_ingame.cpp:541
+Kick voting requires %d players on the server
+== La forigo de ludantoj ĉe tiu servilo bezonas %d ludantojn
+
+#: src/game/client/components/menus_browser.cpp:1600
+Connect
+== Konekti
+
+#: src/game/client/components/menus_ingame.cpp:636
+#: src/game/client/components/menus_browser.cpp:1537
+Remove
+== Forigi
+
+#: src/game/client/components/menus_popups.cpp:204
+#: src/game/client/components/menus_browser.cpp:1234
+Player country:
+== Ludanta lando:
+
+#: src/game/client/components/menus_settings.cpp:1543
+Play background music
+== Ludi fonan sonon
+
+#: src/game/client/components/menus_popups.cpp:120
+#: src/game/client/components/menus_browser.cpp:1155
+Count players only
+== Kalkuli nur ludantojn
+
+#: src/game/client/components/menus_ingame.cpp:175
+Record
+== Registri
+
+#: src/game/client/components/menus_callback.cpp:119
+Mouse sens.
+== Musa sentiveco
+
+#: src/game/client/components/menus.cpp:1116
+Graphics
+== Grafikoj
+
+#: src/game/client/components/menus_demo.cpp:311
+Folder
+== Dosierujo
+
+#: src/game/client/components/menus_demo.cpp:322
+Invalid Demo
+== Malĝusta demonstro
+
+#: src/game/client/components/menus_browser.cpp:866
+No servers found
+== Oni ne povis trovi servilon
+
+#: src/game/client/components/menus.cpp:1697
+Connecting to
+== Konektas al
+
+#: src/game/client/components/menus_ingame.cpp:546
+Server does not allow voting to move players to spectators
+== La servilo ne permesas voĉdoni por movi ludantojn al spektantoj
+
+#: src/game/client/components/menus_settings.cpp:1610
+Volume
+== Sonforteco
+
+#: src/game/client/components/menus_settings.cpp:252
+Alp:
+== Alfa
+
+#: src/game/client/components/chat.cpp:441
+#: src/game/client/components/menus_callback.cpp:49
+#: src/game/client/components/menus_settings.cpp:1141
+Chat
+== Babilejo
+
+#: src/game/client/components/menus_start.cpp:132
+Teeworlds %s is out! Download it at www.teeworlds.com!
+== Teeworlds %s estas ellasita! Elŝutu ĝin al www.teeworlds.com!
+
+#: src/game/client/components/scoreboard.cpp:199
+#: src/game/client/components/scoreboard.cpp:200
+Score
+== Rezulto
+
+#: src/game/client/components/menus_callback.cpp:51
+Screenshot
+== Ekrankopio
+
+#: src/game/client/components/menus_callback.cpp:50
+Console
+== Konzolo
+
+#: src/game/client/components/menus_start.cpp:32
+#: src/game/client/components/menus_start.cpp:39
+#: src/game/client/components/menus.cpp:1241
+Settings
+== Agordoj
+
+#: src/game/client/components/menus_browser.cpp:1126
+%d servers, %d players
+== %d serviloj, %d ludantoj
+
+#: src/game/client/components/menus_ingame.cpp:378
+#: src/game/client/components/scoreboard.cpp:62
+Score limit
+== Rezultlimito
+
+#: src/game/client/gameclient.cpp:1411
+'%s' joined the %s
+== '%s' aligis al la %s
+
+#: src/game/client/components/menus_ingame.cpp:121
+Join red
+== Aligi al la ruĝa
+
+#: src/game/client/components/menus_callback.cpp:47
+Move left
+== Moviĝi maldekstren
+
+#: src/game/client/components/menus_settings.cpp:721
+Switch weapon on pickup
+== Ŝanĝi armilon dum prenado
+
+#: src/game/client/components/scoreboard.cpp:143
+Score board
+== Rezulttabelo
+
+#: src/game/client/components/voting.cpp:217
+Admin forced vote yes
+== La administranto trudis \jes\ en la voĉdonado
+
+#: src/game/client/components/menus_settings.cpp:992
+Skin
+== Haŭtaĵo
+
+#: src/game/client/gameclient.cpp:102
+game
+== ludo
+
+#: src/game/client/components/menus_settings.cpp:158
+Custom colors
+== Propraj koloroj
+
+#: src/game/client/components/menus_demo.cpp:462
+Rename
+== Renomigi
+
+#: src/game/client/components/scoreboard.cpp:400
+Blue team
+== Blua teamo
+
+#: src/game/client/components/menus_callback.cpp:49
+Team chat
+== Teama babilejo
+
+#: src/game/client/components/menus.cpp:2045
+Unable to delete the demo
+== Estas neebla forigi la demonstron
+
+#: src/game/client/components/menus.cpp:1768
+Password incorrect
+== Malĝusta pasvorto
+
+#: src/game/client/components/menus_callback.cpp:50
+Spectate next
+== Spekti neksta
+
+#: src/game/client/components/menus_callback.cpp:50
+Spectator mode
+== Spektanta reĝimo
+
+#: src/game/client/components/menus_demo.cpp:423
+Crc
+== Crc
+
+#: src/game/client/components/menus_ingame.cpp:38
+Only %d active players are allowed
+== Nur aktivaj ludantoj estas akceptataj
+
+#: src/game/client/components/scoreboard.cpp:141
+Round over
+== La raŭndo finiĝis
+
+#: src/game/client/components/hud.cpp:386
+Please balance teams!
+== Bonvolu egaligi la teamojn
+
+#: src/game/client/components/menus.cpp:1100
+Tee
+== Tejo
+
+#: src/game/client/components/hud.cpp:70
+Game paused
+== Ludo paŭzita
+
+#: src/game/client/components/menus_settings.cpp:1294
+High Detail
+== Altaj detaloj
+
+#: src/game/client/components/menus_demo.cpp:309
+Parent Folder
+== Patra dosierujo
+
+#: src/game/client/components/menus_settings.cpp:780
+#: src/game/client/components/menus_settings.cpp:794
+Max
+== Maksimuma
+
+#: src/game/client/components/menus_settings.cpp:935
+Customize
+== Ŝanĝi
+
+#: src/game/client/components/menus_demo.cpp:324
+Demo details
+== Detaloj de demonstro
+
+#: src/game/client/components/menus_demo.cpp:394
+Length
+== Longeco
+
+#: src/game/client/components/menus.cpp:2219
+Nickname is empty.
+== Kromnomo estas malplena.
+
+#: src/game/client/components/menus_settings.cpp:767
+Client
+== Kliento
+
+#: src/game/client/components/menus_ingame.cpp:96
+#: src/game/client/components/menus_ingame.cpp:118
+#: src/game/client/components/menus_ingame.cpp:137
+#: src/game/client/components/menus_ingame.cpp:157
+locked
+== ŝlosita
+
+#: src/game/client/gameclient.cpp:589
+The %s flag was captured by '%s'
+== La flago de %s estis kaptita de '%s'
+
+#: src/game/client/components/menus.cpp:1744
+Remove friend
+== Forigi amikon
+
+#: src/game/client/components/menus_callback.cpp:48
+Next weapon
+== Neksta armilo
+
+#: src/game/client/components/menus_settings.cpp:760
+Use team colors for name plates
+== Uzi teamajn kolorojn por nomŝildoj
+
+#: src/game/client/components/menus.cpp:2320
+Standard Gametype
+== Norma Ludtipo
+
+#: src/game/client/components/menus_ingame.cpp:498
+You must wait %d seconds before making another vote
+== Vi devas atendi %d sekundojn antaŭ vi povas doni alian voĉon
+
+#: src/game/client/components/menus_settings.cpp:1285
+Texture Compression
+== Kompaktigo de teksturoj
+
+#: src/game/client/components/menus_callback.cpp:51
+#: src/game/client/components/menus_browser.cpp:1338
+Scoreboard
+== Rezulttabelo
+
+#: src/game/client/components/menus_start.cpp:50
+#: src/game/client/components/menus_start.cpp:56
+Local server
+== Loka servilo
+
+#: src/game/client/components/menus_browser.cpp:1547
+#: src/game/client/components/menus.cpp:2060
+#: src/game/client/components/menus.cpp:2140
+#: src/game/client/components/menus_settings.cpp:859
+#: src/game/client/components/scoreboard.cpp:202
+Name
+== Nomo
+
+#: src/game/client/components/menus_settings.cpp:1137
+Voting
+== Voĉdonado
+
+#: src/game/client/components/menus_settings.cpp:1271
+Texture
+== Teksturo
+
+#: src/game/client/components/menus_callback.cpp:47
+Hook
+== Hoko
+
+#: src/game/client/components/menus_ingame.cpp:344
+Favorite
+== Ŝatata
+
+#: src/game/client/components/scoreboard.cpp:399
+Red team
+== Ruĝa teamo
+
+#: src/game/client/components/hud.cpp:136
+Sudden Death
+== Eka morto
+
+#: src/game/client/gameclient.cpp:99
+blue team
+== bluan teamon
+
+#: src/game/client/components/menus_ingame.cpp:334
+#: src/game/client/components/menus.cpp:1834
+#: src/game/client/components/menus.cpp:2027
+#: src/game/client/components/menus.cpp:2068
+#: src/game/client/components/menus.cpp:2111
+#: src/game/client/components/menus.cpp:2148
+#: src/game/client/components/menus.cpp:2175
+No
+== Ne
+
+#: src/game/client/components/menus.cpp:2094
+Unable to rename the demo
+== Estas neebla renomigi la demonstron
+
+#: src/game/client/components/menus_callback.cpp:48
+Grenade
+== Grenado
+
+#: src/game/client/components/menus.cpp:1738
+Rename demo
+== Renomigi demonstron
+
+#: src/game/client/components/menus_demo.cpp:477
+Open
+== Malfermi
+
+#: src/game/client/gameclient.cpp:1404
+'%s' has left the game
+== '%s' eliris el la ludo
+
+#: src/game/client/components/menus.cpp:1778
+Welcome to Teeworlds
+== Bonvenon al Teeworlds!
+
+#: src/game/client/components/menus_ingame.cpp:655
+Add
+== Aldoni
+
+#: src/game/client/gameclient.cpp:739
+Teams were unlocked
+== Teamoj estis malŝlositaj
+
+#: src/game/client/components/menus_settings.cpp:727
+Show ingame HUD
+== Montri statusojn/HUD-on en la ludo
+
+#: src/game/client/components/menus.cpp:2194
+Unable to delete the skin
+== Estas neebla forigi la haŭtaĵon
+
+#: src/game/client/components/menus_browser.cpp:555
+Servers
+== Serviloj
+
+#: src/game/client/components/menus.cpp:1194
+Demo
+== Demonstro
+
+#: src/game/client/components/menus_settings.cpp:1145
+Misc
+== Diversaĵoj
+
+#: src/game/client/components/menus_callback.cpp:50
+Spectate previous
+== Spekti antaŭan
+
+#: src/game/client/components/menus_callback.cpp:49
+#: src/game/client/components/hud.cpp:433
+Vote yes
+== Voĉdonu jes
+
+#: src/game/client/components/menus_ingame.cpp:380
+#: src/game/client/components/menus_browser.cpp:559
+#: src/game/client/components/menus.cpp:1225
+Players
+== Ludantoj
+
+#: src/game/client/components/menus_settings.cpp:786
+Automatically take game over screenshot
+== Aŭtomate fari ekrankopion de la ludrezulto
+
+#: src/game/client/components/hud.cpp:373
+Connection Problems...
+== Konektaj problemoj...
+
+#: src/game/client/components/menus_demo.cpp:501
+#: src/game/client/components/menus.cpp:1709
+#: src/game/client/components/menus.cpp:1715
+#: src/game/client/components/menus.cpp:1722
+#: src/game/client/components/menus.cpp:1728
+#: src/game/client/components/menus.cpp:1763
+#: src/game/client/components/menus.cpp:2045
+#: src/game/client/components/menus.cpp:2094
+#: src/game/client/components/menus.cpp:2194
+#: src/game/client/components/menus.cpp:2219
+Ok
+== Bone
+
+#: src/game/client/components/menus_settings.cpp:1381
+Current
+== Ĝisdata
+
+#: src/game/client/components/menus.cpp:1734
+Are you sure that you want to delete the demo?
+== Ĉu vi certe volas forigi la demonstron?
+
+#: src/game/client/components/menus_popups.cpp:115
+#: src/game/client/components/menus_browser.cpp:1150
+Has people playing
+== Havas ludantajn homojn
+
+#: src/game/client/components/menus_settings.cpp:739
+Show name plates
+== Montri nomŝildojn
+
+#: src/game/client/components/menus_settings.cpp:1565
+Detail
+== Detaloj
+
+#: src/game/client/components/menus_settings.cpp:1312
+Resolutions
+== Distingivoj
+
+#: src/game/client/components/menus_settings.cpp:1318
+Show only supported
+== Montri nur subtenatajn
+
+#: src/game/client/components/menus_ingame.cpp:379
+Time limit
+== Templimito
+
+#: src/game/client/components/menus_ingame.cpp:331
+Address
+== Adreso
+
+#: src/game/client/components/voting.cpp:224
+Admin forced vote no
+== La administranto eldevigis la voĉrezulton \ne\
+
+#: src/game/client/components/menus_ingame.cpp:531
+Move player to spectators
+== Movi ludanton al spektantoj
+
+#: src/game/client/components/menus_ingame.cpp:334
+#: src/game/client/components/menus.cpp:1852
+Password
+== Pasvorto
+
+#: src/game/client/components/menus_callback.cpp:48
+Shotgun
+== Kartoĉa Fusilo
+
+#: src/game/client/components/menus_popups.cpp:106
+#: src/game/client/components/menus_browser.cpp:1141
+Server filter
+== Servila filtrilo
+
+#: src/game/client/components/menus_popups.cpp:189
+#: src/game/client/components/menus_browser.cpp:1220
+Server address:
+== Servila adreso:
+
+#: src/game/client/components/hud.cpp:102
+Game starts in
+== La ludo komenciĝas en
+
+#: src/game/client/components/menus_ingame.cpp:585
+#: src/game/client/components/hud.cpp:423
+Reason:
+== Kialo:
+
+#: src/game/client/components/scoreboard.cpp:74
+Match
+== Ludbatalo
+
+#: src/game/client/components/menus_ingame.cpp:527
+Kick player
+== Forigi ludanton
+
+#: src/game/client/components/menus_ingame.cpp:121
+Joined red
+== Aligis al la ruĝa
+
+#: src/game/client/components/menus_demo.cpp:333
+Recorded
+== Registrita
+
+#: src/game/client/components/hud.cpp:412
+%ds left
+== %ds restas
+
+#: src/game/client/components/menus.cpp:1708
+#: src/game/client/components/menus_settings.cpp:628
+Language
+== Lingvo
+
+#: src/game/client/components/chat.cpp:439
+Team
+== Teamo
+
+#: src/game/client/components/console.cpp:541
+-Page %d-
+== -Paĝo %d-
+
+#: src/game/client/gameclient.cpp:737
+Teams were locked
+== Teamoj estis ŝlositaj
+
+#: src/game/client/components/menus_start.cpp:122
+#: src/game/client/components/menus.cpp:1773
+Quit
+== Forlasi
+
+#: src/game/client/gameclient.cpp:587 src/game/client/gameclient.cpp:589
+red
+== ruĝa
+
+#: src/game/client/components/menus_settings.cpp:1584
+Sample rate
+== Rapideco de specimenoj
+
+#: src/game/client/components/menus.cpp:1084
+General
+== Ĝeneralaj
+
+#: src/game/client/components/hud.cpp:79
+#: src/game/client/components/hud.cpp:329
+%d player not ready
+== %d ludanto ne estas preta
+
+#: src/game/client/components/menus.cpp:1727
+The server is running a non-standard tuning on a pure game type.
+== La servilo ne uzas normajn ludagordojn.
+
+#: src/game/client/gameclient.cpp:587 src/game/client/gameclient.cpp:589
+blue
+== blua
+
+#: src/game/client/components/menus.cpp:2321
+Favorites
+== Ŝatataj
+
+#: src/game/client/components/scoreboard.cpp:337
+REC %3d:%02d
+== REG %3d:%02d
+
+#: src/game/client/components/menus_settings.cpp:702
+Dynamic Camera
+== Dinamika observadopunkto
+
+#: src/game/client/components/scoreboard.cpp:68
+Time limit: %d min
+== Templimito: %d minutojn
+
+#: src/game/client/components/menus_start.cpp:66
+#: src/game/client/components/menus_start.cpp:75
+Demos
+== Demonstroj
+
+#: src/game/client/components/menus_browser.cpp:1288
+Server details
+== Detaloj pri la servilo
+
+#: src/game/client/components/menus.cpp:1757
+Are you sure that you want to delete the skin?
+== Ĉu vi certe volas forigi la haŭtaĵon?
+
+#: src/game/client/components/menus_callback.cpp:51
+Ready
+== Preta
+
+#: src/game/client/components/menus_ingame.cpp:175
+Stop record
+== Halti registradon
+
+#: src/game/client/components/menus.cpp:1161
+Local
+== Loka
+
+#: src/game/client/components/menus_ingame.cpp:376
+Game type
+== Ludtipo
