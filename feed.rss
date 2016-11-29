@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Kamparano</title><link>./index.html</link>
 <description>Miaj stultaj pensoj pri stultaj aferoj.</description><language>en</language>
-<lastBuildDate>Tue, 29 Nov 2016 13:24:20 -0800</lastBuildDate>
-<pubDate>Tue, 29 Nov 2016 13:24:20 -0800</pubDate>
+<lastBuildDate>Tue, 29 Nov 2016 13:29:04 -0800</lastBuildDate>
+<pubDate>Tue, 29 Nov 2016 13:29:04 -0800</pubDate>
 <atom:link href="./feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Super Mario Bros. nun ludeblas en Esperanto
@@ -75,8 +75,7 @@ Teeworlds, tre amuza libera ludo, ludeblas en Esperanto
 
 <p>Poste, redaktu la dosieron en tiu sama dosierujo, <code>index.txt</code>, kaj aldonu:</p>
 
-<p><code><pre>
-esperanto
+<p><code><pre>esperanto
 == Esperanto
 == 233
 </pre></code></p>

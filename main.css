@@ -71,3 +71,8 @@ ul, ol, .content p, h4 {
 	margin-left:24px;
 	margin-right:24px;
 }
+
+code {
+	background: #eeeeee;
+	padding:6px
+}
