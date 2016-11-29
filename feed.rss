@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Kamparano</title><link>./index.html</link>
+<description>Miaj stultaj pensoj pri stultaj aferoj.</description><language>en</language>
+<lastBuildDate>Tue, 29 Nov 2016 12:33:14 -0800</lastBuildDate>
+<pubDate>Tue, 29 Nov 2016 12:33:14 -0800</pubDate>
+<atom:link href="./feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Super Mario Bros. nun ludeblas en Esperanto
+</title><description><![CDATA[
+
+<p>Mi jxus tradukis <i>Super Mario Bros.</i>-on al Esperanto.</p>
+
+<p><strong><a href="dosieroj/es/kp_smb_eo/kp_smb_eo-20161018.zip">El&#x15d;uti</a> - <a href="http://www.romhacking.net/translations/2752/">Spegulo (Romhacking.net)</a></strong></p>
+
+<p><em>Elsxuto SHA-256: f30d cbac b6fd 7b27 26ba 2151 13bb 01b2 dbf4 a948 06a3 8fdb 3cc3 8ac8 dfc6 549e</em></p>
+
+<p>Permesita al vi per <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0.</a></p>
+
+<p>Tags: <a href='tag_tradukoj.html'>tradukoj</a>, <a href='tag_ludoj.html'>ludoj</a></p>
+
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=./kp_smb_eo.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=kamparanoviro'>Comments? Tweet</a> 
+<a href='https://twitter.com/search?q=./kp_smb_eo.html'><span id='count-32268'></span></a>&nbsp;</p>
+]]></description><link>./kp_smb_eo.html</link>
+<guid>././kp_smb_eo.html</guid>
+<dc:creator>Kamparano</dc:creator>
+<pubDate>Tue, 29 Nov 2016 12:30:26 -0800</pubDate></item>
+<item><title>
+Nefinita Traduko de Batman (GB) al Esperanto
+</title><description><![CDATA[
+
+<p>Mi publikigis mian nefinitan tradukon de Batman al Esperanto por la Game Boy.</p>
+
+<p><strong><a href="dosieroj/es/kp_batmaneo/kp_batmaneo-20160206.zip">Elsxuti</a> - <a href="http://www.romhacking.net/translations/2663/">Spegulo (Romhacking.net)</a></strong></p>
+
+<p><em>Elsxuto SHA-256: 3017312e fdc91c6b 3249ffd6 c75a382b 143e024b 20bc422c de2bfc61 10b2d5f1</em></p>
+
+<p>Permesita al vi per <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0.</a></p>
+
+<p>Tags: <a href='tag_tradukoj.html'>tradukoj</a>, <a href='tag_ludoj.html'>ludoj</a></p>
+
+
+
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=./kp_batmaneo.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=kamparanoviro'>Comments? Tweet</a> 
+<a href='https://twitter.com/search?q=./kp_batmaneo.html'><span id='count-25589'></span></a>&nbsp;</p>
+]]></description><link>./kp_batmaneo.html</link>
+<guid>././kp_batmaneo.html</guid>
+<dc:creator>Kamparano</dc:creator>
+<pubDate>Sat, 06 Feb 2016 10:10:10 -0800</pubDate></item>
+</channel></rss>
