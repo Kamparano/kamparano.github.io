@@ -2,9 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Kamparano</title><link>./index.html</link>
 <description>Miaj stultaj pensoj pri stultaj aferoj.</description><language>en</language>
-<lastBuildDate>Tue, 29 Nov 2016 13:41:37 -0800</lastBuildDate>
-<pubDate>Tue, 29 Nov 2016 13:41:37 -0800</pubDate>
+<lastBuildDate>Sun, 30 Jul 2017 10:08:13 -0700</lastBuildDate>
+<pubDate>Sun, 30 Jul 2017 10:08:13 -0700</pubDate>
 <atom:link href="./feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+</title><description><![CDATA[
+]]></description><link>./sk.html</link>
+<guid>././sk.html</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 18 Jan 2017 18:56:10 -0800</pubDate></item>
 <item><title>
 Ligiloj
 </title><description><![CDATA[
@@ -22,9 +28,8 @@ Ligiloj
 &#8226; <a href="https://soundcloud.com/kamparano">SoundCloud</a>
 &#8226; <a href="https://itunes.apple.com/us/podcast/kamparano/id1151953905">iTunes</a>
 &#8226; <a href="https://play.google.com/music/m/Iwroyiuwgjvapc4fleodpstvp4e?t=Kamparano">Google Play</a>
-&#8226; <a href="http://pca.st/u0Ln">Pocket Casts</a>
-&#8226; <a href="http://tunein.com/radio/Kamparano-p930369/">TuneIn Radio</a>
 </p>
+
 
 
 
