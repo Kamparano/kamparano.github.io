@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Kamparano</title><link>./index.html</link>
 <description>Miaj stultaj pensoj pri stultaj aferoj.</description><language>en</language>
-<lastBuildDate>Sun, 30 Jul 2017 10:08:13 -0700</lastBuildDate>
-<pubDate>Sun, 30 Jul 2017 10:08:13 -0700</pubDate>
+<lastBuildDate>Sun, 30 Jul 2017 10:11:43 -0700</lastBuildDate>
+<pubDate>Sun, 30 Jul 2017 10:11:43 -0700</pubDate>
 <atom:link href="./feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 </title><description><![CDATA[
@@ -125,10 +125,10 @@ Teeworlds, tre amuza libera ludo, ludeblas en Esperanto
 
 <p>Poste, redaktu la dosieron en tiu sama dosierujo, <code>index.txt</code>, kaj aldonu:</p>
 
-<p><code><pre>esperanto
+<p><pre><code>esperanto
 == Esperanto
 == 233
-</pre></code></p>
+</code></pre></p>
 
 <p>Jen video kie <em>Vanege</em> ludas gxin.</p>
 
