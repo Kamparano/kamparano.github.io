@@ -1,1 +1,0 @@
-# [Kamparano](https://kamparano.github.io/)
